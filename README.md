@@ -31,6 +31,7 @@ WHERE SalesKey <= 1556 AND SalesKey > 1546
 
 ## Programs Used :computer:
 - Transact SQL
+- Visual Studio Code
 
 
 

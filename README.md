@@ -25,10 +25,12 @@ INNER JOIN dbo.DimCustomer dc
 WHERE SalesKey <= 1556 AND SalesKey > 1546 
  ```
 
-![Query](C:\Users\lukem\OneDrive\Pictures\window.jpg)
 
 
+![window](https://user-images.githubusercontent.com/123023771/231597599-24151401-c721-4e8b-ad99-637e95b252f3.jpg)
 
+## Programs Used 
+- Transact SQL
 
 
 

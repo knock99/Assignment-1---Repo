@@ -1,4 +1,4 @@
-# Assignment-1 Window Functions
+# Window Functions :window:
 ## Overview
  This is a bit of code from T SQL using two types of window functions that can come in handy in certain situations. 
  First I used the ROW_NUMBER function to create a unique ID to filter on which is very useful for primary and foreign keys.
@@ -7,7 +7,7 @@
  ## Data :bar_chart:
  The data that I used for the this came from Microsofts sample data warehouse called AdventureworksDW2019.
  This query could be used to compare employee or customer data filtered on different specifications. [AdventureworksDW2019](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak)
- ## Data Set :computer:
+ ## Data Set 
  ```sql 
  USE AdventureWorksDW2019;
  GO
@@ -29,7 +29,7 @@ WHERE SalesKey <= 1556 AND SalesKey > 1546
 
 ![window](https://user-images.githubusercontent.com/123023771/231597599-24151401-c721-4e8b-ad99-637e95b252f3.jpg)
 
-## Programs Used 
+## Programs Used :computer:
 - Transact SQL
 
 

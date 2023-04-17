@@ -6,7 +6,8 @@
  in a sub query which I then filtered out 10 records in the WHERE clause using the unique SalesKey ID that was created. 
  ## Data :bar_chart:
  The data that I used for the this came from Microsofts sample data warehouse called AdventureworksDW2019.
- This query could be used to compare employee or customer data filtered on different specifications. [AdventureworksDW2019](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak)
+ This query could be used to compare employee or customer data filtered on different specifications. [BakFileAdventureworksDW2019](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak)
+ [WebsiteForSampleMicrosoftDBs](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
  ## Data Set 
  ```sql 
  USE AdventureWorksDW2019;
